@@ -1,26 +1,26 @@
-👋 Hi, I'm Srija!
-Frontend & Full-Stack Developer | Startup MVP Specialist | Open to Collaborations
 
-💻 Tech Stack:
 
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
 
-Backend: Node.js, Firebase, REST APIs
+Hi everyone! I'm Srija, a Full-Stack Developer & Startup MVP Specialist with 1.5+ years of experience in React.js, Next.js, TypeScript, and Node.js. Passionate about crafting high-performance web applications, I thrive in fast-paced environments, delivering scalable, user-friendly solutions that drive business impact.  
 
-Tools: Git, Figma, Vercel, Agile
+### What I Do Best  
+✅ Frontend Excellence: React.js, Next.js, Tailwind CSS, Framer Motion  
+✅ Backend & APIs: Node.js, Firebase, RESTful APIs, SQL  
+✅ Performance Optimization: Lighthouse (90+ scores), Code Splitting, Lazy Loading  
+✅ Startup Collaboration: MVP Development, Agile Sprints, Scalable UI  
 
-🚀 What I Do:
+### Career Highlights  
+🚀 Developed 10+ MVPs for startups in fintech, healthcare, and SaaS, reducing time-to-market by 30%  
+📈 Boosted user retention by 25% and slashed load times by 40% with cutting-edge frontend solutions  
+⚡ Drove $50K+ in client revenue by aligning technical execution with business goals  
+👥 Grew LinkedIn network to 7K+ by sharing knowledge and helping professionals build their brands  
 
-Build scalable, performant web apps with 90+ Lighthouse scores.
+### Looking for  
+🔹 Full-time Frontend or Full-Stack roles in IT & startups  
+🔹 Freelance collaborations for web development projects  
+🔹 Networking with tech leaders, recruiters, and startup founders  
 
-Craft startup MVPs for fintech, SaaS, and healthcare.
-
-Optimize UX/UI for faster load times & higher retention.
-
-📫 Let’s Connect:
-
-Email: pothasrija941@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/p-sreeja-31b557230/
-
-Portfolio: https://portfolio-srijapotha.vercel.app/
+### Let’s Connect!  
+📧 Email: pothasrija941@gmail.com  
+📞 WhatsApp: +91 9182704402  
