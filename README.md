@@ -14,7 +14,7 @@ Hi everyone! I'm Srija, a Full-Stack Developer & Startup MVP Specialist with 1.5
 🚀 Developed 10+ MVPs for startups in fintech, healthcare, and SaaS, reducing time-to-market by 30%  
 📈 Boosted user retention by 25% and slashed load times by 40% with cutting-edge frontend solutions  
 ⚡ Drove $50K+ in client revenue by aligning technical execution with business goals  
-👥 Grew LinkedIn network to 7K+ by sharing knowledge and helping professionals build their brands  
+👥 Grew LinkedIn network to 8K+ by sharing knowledge and helping professionals build their brands  
 
 ### Looking for  
 🔹 Full-time Frontend or Full-Stack roles in IT & startups  
