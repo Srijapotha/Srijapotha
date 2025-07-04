@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d39b7a7b-a2ad-4b7d-9862-e7b2680d1d60)
 
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
