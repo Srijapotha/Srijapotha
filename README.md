@@ -56,3 +56,51 @@ Hi everyone! I'm Srija, a Full-Stack Developer & Startup MVP Specialist with 1.5
 ### Let’s Connect!  
 📧 Email: pothasrija941@gmail.com  
 📞 WhatsApp: +91 9182704402  
+
+
+# Hi, I'm Srija 👩‍💻  
+**Full-Stack Developer | MVP Specialist | Performance Optimizer**
+
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I am a **Full-Stack Developer** with 2+ years of freelance & project experience, building **scalable MVPs and high-performance applications**.  
+Passionate about creating **business-driven solutions** that are **fast, scalable, and user-friendly**.  
+
+---
+
+## 🚀 Skills & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js" />
+</p>  
+
+---
+
+## 📈 Key Highlights  
+- 🚀 Built **10+ MVPs** across fintech, healthcare & SaaS → reduced time-to-market by **30%**  
+- ⚡ Improved **app load times by 40%** and **user retention by 25%** with performance optimization  
+- 💼 Helped startups generate **$50K+ revenue growth** through scalable technical solutions  
+- 👥 Strong collaboration in **Agile teams**, delivering modern UI/UX and backend APIs  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srijapotha&theme=tokyonight" />
+</p>  
+
+---
+
+## 🤝 Let’s Connect  
+
+📧 **Email:** pothasrija941@gmail.com  
+🌐 **Portfolio:** [portfolio-srijapotha.vercel.app](https://portfolio-srijapotha.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/p-sreeja-31b557230](https://linkedin.com/in/p-sreeja-31b557230)  
+📱 **WhatsApp:** +91 9182704402  
+
+---
+
+✨ _“Code is not just about solving problems, it’s about creating impact.”_ ✨
+
