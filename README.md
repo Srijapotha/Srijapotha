@@ -1,7 +1,5 @@
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🎉 Fun GIF
-
-![Fun GIF](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
 
