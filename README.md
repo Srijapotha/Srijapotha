@@ -1,15 +1,9 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYyb3ZyYnl3YnNhOGU0emp1OHMyMmpkZ2Nza2k2aGw4cjRmeTd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Woman Gif">
-</p>
-
-
-
 
 <h1 align="center">Hi, I'm Srija 👩‍💻</h1>
 <h3 align="center">Full-Stack Developer | MVP Specialist | Performance Optimizer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYyb3ZyYnl3YnNhOGU0emp1OHMyMmpkZ2Nza2k2aGw4cjRmeTd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Woman Gif">
 </p>
 
 ---
