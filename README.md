@@ -1,6 +1,7 @@
 
 
-![Tech Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
