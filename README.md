@@ -31,56 +31,39 @@
 <br><br> 
 
 
-
-🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
-
-Hi everyone! I'm Srija, a Full-Stack Developer & Startup MVP Specialist with 1.5+ years of experience in React.js, Next.js, TypeScript, and Node.js. Passionate about crafting high-performance web applications, I thrive in fast-paced environments, delivering scalable, user-friendly solutions that drive business impact.  
-
-### What I Do Best  
-✅ Frontend Excellence: React.js, Next.js, Tailwind CSS, Framer Motion  
-✅ Backend & APIs: Node.js, Firebase, RESTful APIs, SQL  
-✅ Performance Optimization: Lighthouse (90+ scores), Code Splitting, Lazy Loading  
-✅ Startup Collaboration: MVP Development, Agile Sprints, Scalable UI  
-
-### Career Highlights  
-🚀 Developed 10+ MVPs for startups in fintech, healthcare, and SaaS, reducing time-to-market by 30%  
-📈 Boosted user retention by 25% and slashed load times by 40% with cutting-edge frontend solutions  
-⚡ Drove $50K+ in client revenue by aligning technical execution with business goals  
-👥 Grew LinkedIn network to 8K+ by sharing knowledge and helping professionals build their brands  
-
-### Looking for  
-🔹 Full-time Frontend or Full-Stack roles in IT & startups  
-🔹 Freelance collaborations for web development projects  
-🔹 Networking with tech leaders, recruiters, and startup founders  
-
-### Let’s Connect!  
-📧 Email: pothasrija941@gmail.com  
-📞 WhatsApp: +91 9182704402  
-
-
 # Hi, I'm Srija 👩‍💻  
 **Full-Stack Developer | MVP Specialist | Performance Optimizer**
 
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I am a **Full-Stack Developer** with 2+ years of freelance & project experience, building **scalable MVPs and high-performance applications**.  
-Passionate about creating **business-driven solutions** that are **fast, scalable, and user-friendly**.  
+I’m a **Full-Stack Developer** with **2+ years** of freelance & project experience, building  
+⚡ **scalable MVPs** and  
+⚡ **high-performance applications**  
+
+Passionate about creating **business-driven solutions** that are **fast, scalable & user-friendly** 🚀  
 
 ---
 
 ## 🚀 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js,vscode" />
 </p>  
+
+<p align="center">
+  <img alt="React GIF" height="60" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  <img alt="JS GIF" height="60" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="Node GIF" height="60" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+</p>
 
 ---
 
 ## 📈 Key Highlights  
-- 🚀 Built **10+ MVPs** across fintech, healthcare & SaaS → reduced time-to-market by **30%**  
-- ⚡ Improved **app load times by 40%** and **user retention by 25%** with performance optimization  
-- 💼 Helped startups generate **$50K+ revenue growth** through scalable technical solutions  
-- 👥 Strong collaboration in **Agile teams**, delivering modern UI/UX and backend APIs  
+
+✅ Built **10+ MVPs** across fintech, healthcare & SaaS → reduced time-to-market by **30%**  
+✅ Improved **app load speed by 40%** → boosted user retention by **25%**  
+✅ Helped startups unlock **$50K+ revenue growth** with scalable tech solutions  
+✅ Strong collaboration in **Agile teams**, delivering modern UI/UX & backend APIs  
 
 ---
 
@@ -93,14 +76,15 @@ Passionate about creating **business-driven solutions** that are **fast, scalabl
 
 ---
 
-## 🤝 Let’s Connect  
+## 🌐 Connect With Me  
 
 📧 **Email:** pothasrija941@gmail.com  
-🌐 **Portfolio:** [portfolio-srijapotha.vercel.app](https://portfolio-srijapotha.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/p-sreeja-31b557230](https://linkedin.com/in/p-sreeja-31b557230)  
+🌐 **Portfolio:** [portfolio-srijapotha.vercel.app](https://portfolio-srijapotha.vercel.app)  
 📱 **WhatsApp:** +91 9182704402  
 
 ---
 
-✨ _“Code is not just about solving problems, it’s about creating impact.”_ ✨
+✨ _“Code is not just about solving problems — it’s about creating impact.”_ ✨
+
 
