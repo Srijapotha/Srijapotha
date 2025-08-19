@@ -1,7 +1,4 @@
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
-
+![Web App](https://media.giphy.com/media/XcXx0WlV2j5C1S8b6G/giphy.gif)
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
 
