@@ -1,8 +1,7 @@
-![API](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
 
 ![Tech Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-![Circuit Board](https://media.giphy.com/media/Y0b2mpWYyXyH0yLxSx/giphy.gif)
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
 
