@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
-
+[<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
+](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 ## Moving Logos [🔝]
   
 <div align="center">
