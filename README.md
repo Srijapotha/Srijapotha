@@ -5,52 +5,55 @@
 
 
 
-# Hi, I'm Srija 👩‍💻  
-**Full-Stack Developer | MVP Specialist | Performance Optimizer**
-
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I’m a **Full-Stack Developer** with **2+ years** of freelance & project experience, building  
-⚡ **scalable MVPs** and  
-⚡ **high-performance applications**  
-
-Passionate about creating **business-driven solutions** that are **fast, scalable & user-friendly** 🚀  
-
----
-
-## 🚀 Skills & Tools  
+<h1 align="center">Hi, I'm Srija 👩‍💻</h1>
+<h3 align="center">Full-Stack Developer | MVP Specialist | Performance Optimizer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js,vscode" />
-</p>  
-
-<p align="center">
-  <img alt="React GIF" height="60" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
-  <img alt="JS GIF" height="60" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-  <img alt="Node GIF" height="60" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation" />
 </p>
 
 ---
 
-## 📈 Key Highlights  
+## 👩‍💻 About Me  
 
-✅ Built **10+ MVPs** across fintech, healthcare & SaaS → reduced time-to-market by **30%**  
-✅ Improved **app load speed by 40%** → boosted user retention by **25%**  
-✅ Helped startups unlock **$50K+ revenue growth** with scalable tech solutions  
-✅ Strong collaboration in **Agile teams**, delivering modern UI/UX & backend APIs  
+I am a **Full-Stack Developer** with **2+ years of professional experience** in building **scalable MVPs, high-performance applications, and modern web solutions**.  
+I focus on creating **business-driven, fast, and user-centric products** that help startups and companies accelerate growth.  
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Skills & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js,vscode" />
+</p>
+
+<p align="center">
+  <img alt="React GIF" height="55" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  <img alt="JS GIF" height="55" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="Node GIF" height="55" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+</p>
+
+---
+
+## 📈 Career Highlights  
+
+- 🏆 Delivered **10+ MVPs** for startups in fintech, healthcare & SaaS — reducing **time-to-market by 30%**  
+- ⚡ Optimized performance → **40% faster load times**, boosting **user retention by 25%**  
+- 💼 Supported startups in achieving **$50K+ revenue growth** through scalable, high-quality solutions  
+- 🤝 Experienced in **Agile environments**, contributing to frontend, backend, and UI/UX delivery  
+
+---
+
+## 📊 GitHub Insights  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srijapotha&theme=tokyonight" />
-</p>  
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with Me  
 
 📧 **Email:** pothasrija941@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/p-sreeja-31b557230](https://linkedin.com/in/p-sreeja-31b557230)  
@@ -60,5 +63,3 @@ Passionate about creating **business-driven solutions** that are **fast, scalabl
 ---
 
 ✨ _“Code is not just about solving problems — it’s about creating impact.”_ ✨
-
-
