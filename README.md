@@ -1,4 +1,8 @@
-![Web App](https://media.giphy.com/media/XcXx0WlV2j5C1S8b6G/giphy.gif)
+![API](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
+![Tech Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+![Circuit Board](https://media.giphy.com/media/Y0b2mpWYyXyH0yLxSx/giphy.gif)
 
 🚀 Open to Frontend & Full-Stack Developer Roles! 🚀  
 
