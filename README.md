@@ -1,4 +1,7 @@
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYyb3ZyYnl3YnNhOGU0emp1OHMyMmpkZ2Nza2k2aGw4cjRmeTd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Woman Gif">
+</p>
+
 
 ## Moving Logos [🔝]
   
