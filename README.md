@@ -49,10 +49,10 @@ I focus on creating **business-driven, fast, and user-centric products** that he
 
 ## 🌐 Connect with Me  
 
-📧 **Email:** pothasrija941@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/p-sreeja-31b557230](https://linkedin.com/in/p-sreeja-31b557230)  
-🌐 **Portfolio:** [portfolio-srijapotha.vercel.app](https://portfolio-srijapotha.vercel.app)  
-📱 **WhatsApp:** +91 9182704402  
+🐦 X (Twitter): https://x.com/srija941  
+📧 Email: pothasrija941@gmail.com  
+💼 LinkedIn: linkedin.com/in/p-sreeja-31b557230  
+🌐 Portfolio: portfolio-srijapotha.vercel.app  
 
 ---
 
