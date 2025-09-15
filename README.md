@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me  
 
-I am a **Full-Stack Developer** with **2+ years of professional experience** in building **scalable MVPs, high-performance applications, and modern web solutions**.  
+I am a **Full-Stack Developer** building **scalable MVPs, high-performance applications, and modern web solutions**.  
 I focus on creating **business-driven, fast, and user-centric products** that help startups and companies accelerate growth.  
 
 ---
