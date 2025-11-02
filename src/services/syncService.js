@@ -129,8 +129,12 @@ class SyncService {
       // Sync each deal
       for (const deal of hubspotDeals) {
         try {
-          // For demonstration, use the first customer
-          // In real implementation, would match based on contact association
+          // NOTE: This is simplified for demonstration purposes
+          // In production, you should:
+          // 1. Match deals to customers based on HubSpot contact associations
+          // 2. Use deal properties to find the correct customer
+          // 3. Handle cases where customer doesn't exist in QuickBooks
+          // TODO: Implement proper customer matching logic
           if (quickbooksCustomers.length === 0) {
             logger.warn('No QuickBooks customers found, skipping deal sync');
             break;

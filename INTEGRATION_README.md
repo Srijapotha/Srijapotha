@@ -189,6 +189,22 @@ Example log output:
 [INFO] 2025-11-02T12:00:05.000Z: Contact sync completed: 13 successful, 0 failed
 ```
 
+## ⚠️ Known Limitations (Demo Version)
+
+This implementation includes some simplifications for demonstration purposes:
+
+1. **QuickBooks Authentication**: Uses a simplified authentication approach. Production implementations must use full OAuth2 flow with token refresh.
+
+2. **Deal-to-Customer Mapping**: Currently assigns all deals to the first customer. Production should match based on HubSpot contact associations.
+
+3. **Error Recovery**: Basic error handling is implemented. Production should include retry logic, dead letter queues, and alerting.
+
+4. **Rate Limiting**: Not currently implemented. Production must respect API rate limits of both platforms.
+
+5. **Data Validation**: Minimal validation. Production should validate all data before syncing.
+
+These are clearly marked with TODO comments in the code and should be addressed before production deployment.
+
 ## 🐛 Troubleshooting
 
 ### Common Issues

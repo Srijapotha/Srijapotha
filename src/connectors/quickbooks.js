@@ -18,14 +18,21 @@ class QuickBooksConnector {
   /**
    * Authenticate with QuickBooks (simplified - real implementation would use OAuth2)
    * @returns {Promise<void>}
+   * 
+   * NOTE: This is a demonstration implementation. In production, you must:
+   * 1. Implement full OAuth2 authorization flow
+   * 2. Handle token refresh mechanism
+   * 3. Store tokens securely (encrypted database or secrets manager)
+   * 4. Never use hardcoded tokens
    */
   async authenticate() {
     try {
       logger.info('Authenticating with QuickBooks...');
       // In a real implementation, this would handle OAuth2 flow
       // For demonstration, we're simulating authentication
+      // TODO: Implement proper OAuth2 flow for production
       this.accessToken = 'demo_access_token';
-      logger.info('QuickBooks authentication successful');
+      logger.info('QuickBooks authentication successful (demo mode)');
     } catch (error) {
       logger.error('Error authenticating with QuickBooks:', error.message);
       throw error;
