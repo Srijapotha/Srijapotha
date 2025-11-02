@@ -38,6 +38,22 @@ I focus on creating **business-driven, fast, and user-centric products** that he
 
 ---
 
+## 🔗 Integration Projects
+
+### HubSpot-QuickBooks Integration
+A production-ready integration that seamlessly syncs data between HubSpot CRM and QuickBooks Online.
+
+**Features:**
+- ✅ Bidirectional sync between HubSpot and QuickBooks
+- ✅ Contact → Customer synchronization
+- ✅ Deal → Invoice transformation
+- ✅ Configurable sync intervals
+- ✅ Comprehensive error handling and logging
+
+📖 **[View Documentation](./INTEGRATION_README.md)** | 💻 **[See Examples](./examples/example-usage.js)**
+
+---
+
 ## 📊 GitHub Insights  
 
 <p align="center">
