@@ -1,37 +1,44 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Srija%20Potha&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer&descSize=24&descAlignY=62&animation=twinkling)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Automating+code+to+production+%F0%9F%9A%80;CI%2FCD+Pipelines+%E2%80%A2+Docker+%E2%80%A2+AWS;Infrastructure+as+Code+%E2%80%A2+Kubernetes;Build+%E2%80%A2+Ship+%E2%80%A2+Monitor+%E2%80%A2+Repeat)](https://github.com/Srijapotha)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:5b2bff&height=250&section=header&text=Srija%20Potha&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20Automation&descSize=18&descAlignY=60&animation=fadeIn)
 
-![Role](https://img.shields.io/badge/ROLE-DEVOPS_ENGINEER-00D4FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloud](https://img.shields.io/badge/CLOUD-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Containers](https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Open](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-2ea44f?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0072FF&center=true&vCenter=true&width=720&height=45&lines=Automating+the+path+from+code+to+production+%F0%9F%9A%80;CI%2FCD+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+Linux;Infrastructure+as+Code+%E2%80%A2+Kubernetes+%E2%80%A2+Monitoring;Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Monitor)](https://github.com/Srijapotha)
 
-![Views](https://komarev.com/ghpvc/?username=Srijapotha&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Srijapotha?label=Followers&style=flat-square&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Srijapotha&query=$.public_repos&label=Public%20Repos&style=flat-square&logo=github)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-0072FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Open](https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=for-the-badge)
+
+![Views](https://komarev.com/ghpvc/?username=Srijapotha&label=Profile+Views&color=0072ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Srijapotha?style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/Srijapotha?style=flat-square&logo=github&label=Stars)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 💻 whoami
 
-DevOps Engineer focused on **automating the path from code to production**. I build CI/CD pipelines, containerize applications and deploy them on cloud infrastructure, with an emphasis on **reliability, repeatability and security**.
+```bash
+$ whoami
+srija — DevOps Engineer
 
-> 💡 *If you have to do it twice, automate it.*
+$ cat focus.txt
+CI/CD  |  Cloud (AWS)  |  Containers  |  Infrastructure as Code  |  Monitoring
 
-| | |
-|:--|:--|
-| 🎯 **Focus** | CI/CD · Cloud · Containers · Infrastructure as Code · Monitoring |
-| 🔐 **Principles** | Automate repetitive work · Secure by default · Measure everything |
-| 🌱 **Learning** | Kubernetes · Terraform · Observability |
+$ cat principles.txt
+1. Automate anything you do twice
+2. Secure by default
+3. If it isn't measured, it isn't managed
+
+$ echo $STATUS
+Open to DevOps opportunities 🚀
+```
 
 ---
 
-## 🔄 The Pipeline I Build
+## 🔄 Pipeline I Build
 
 ```mermaid
 flowchart LR
@@ -47,50 +54,98 @@ flowchart LR
 
 ## 🧰 Tech Stack
 
-**Working with**
-
+### ⚡ Working With
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,bash,python,nginx&perline=9" />
 
-**Learning (projects in progress)**
-
+### 🌱 Currently Learning
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,ansible,prometheus,grafana&perline=6" />
+
+---
+
+## 🗺️ Skills Roadmap
+
+| Area | Tools | Status |
+|:--|:--|:--|
+| **Version Control** | Git, GitHub, branching workflows | 🟢 Working |
+| **Containers** | Docker, Docker Compose | 🟢 Working |
+| **Cloud** | AWS (EC2, S3, IAM) | 🟡 Building depth |
+| **CI/CD** | GitHub Actions | 🟡 Building depth |
+| **Linux & Scripting** | Ubuntu, Bash, Python | 🟡 Building depth |
+| **Orchestration** | Kubernetes, Helm | 🔵 Learning |
+| **Infrastructure as Code** | Terraform, Ansible | 🔵 Learning |
+| **Monitoring** | Prometheus, Grafana | 🔵 Learning |
+
+<sub>🟢 Working &nbsp;·&nbsp; 🟡 Building depth &nbsp;·&nbsp; 🔵 Learning</sub>
 
 ---
 
 ## 🚀 Featured Projects
 
-| # | Project | What it does | Stack |
-|:-:|---|---|---|
-| 1 | 🔁 **[CI/CD Pipeline](https://github.com/Srijapotha)** | Build → test → push image → deploy on every commit | `GitHub Actions` `Docker` `AWS EC2` |
-| 2 | 🐳 **[Dockerized Application](https://github.com/Srijapotha)** | Multi-container app with networking and volumes | `Docker` `Compose` |
-| 3 | ☁️ **[AWS Deployment](https://github.com/Srijapotha)** | EC2 + S3 hosting with IAM least privilege | `AWS` `Nginx` `Linux` |
-| 4 | 🏗️ **[Terraform IaC](https://github.com/Srijapotha)** | VPC, EC2 and S3 provisioned as code | `Terraform` `AWS` |
-| 5 | ☸️ **[Kubernetes Deployment](https://github.com/Srijapotha)** | Deployments, services, rolling updates | `Kubernetes` |
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🔁 **[CI/CD Pipeline](https://github.com/Srijapotha)** | Automated build, test, image push and deploy on every commit | `GitHub Actions` `Docker` `AWS` |
+| 🐳 **[Dockerized Application](https://github.com/Srijapotha)** | Multi-container app with networking, volumes and env configs | `Docker` `Compose` |
+| ☁️ **[AWS Deployment](https://github.com/Srijapotha)** | EC2 + S3 hosting with IAM least privilege and Nginx | `AWS` `Nginx` `Linux` |
+| 🏗️ **[Terraform IaC](https://github.com/Srijapotha)** | VPC, EC2 and S3 provisioned as reusable code | `Terraform` `AWS` |
+| ☸️ **[Kubernetes Deployment](https://github.com/Srijapotha)** | Deployments, services and rolling updates | `Kubernetes` |
 
-> 📌 Replace each link with the exact repo URL, and remove any project you haven't built yet.
-
----
-
-## 🛠️ DevOps Practices
-
-✅ CI/CD pipeline design and automation  
-✅ Containerization and reproducible environments  
-✅ Infrastructure as Code  
-✅ Monitoring, logging and alerting  
-✅ Git branching strategies and code review workflows  
-✅ Cloud security basics: IAM least privilege, secrets management  
+<sub>📌 Replace each link with the exact repo URL. Remove any project you haven't built yet.</sub>
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 How I Work
+
+- 🔁 **Automate first**: repeatable pipelines over manual steps
+- 📦 **Containerize everything**: the same environment from laptop to production
+- 🔐 **Security by default**: least-privilege IAM, no secrets in code
+- 📝 **Document as I build**: every repo has a README and an architecture diagram
+- 📊 **Measure**: logs and metrics before opinions
+
+---
+
+<details>
+<summary><b>🛠️ DevOps Practices (click to expand)</b></summary>
+<br>
+
+- ✅ CI/CD pipeline design and automation
+- ✅ Containerization and reproducible environments
+- ✅ Infrastructure as Code
+- ✅ Monitoring, logging and alerting
+- ✅ Git branching strategies and code review workflows
+- ✅ Cloud security basics: IAM least privilege, secrets management
+
+</details>
+
+<details>
+<summary><b>🎓 Certifications and Goals (click to expand)</b></summary>
+<br>
+
+- ☁️ AWS Certified Cloud Practitioner *(in progress / add when earned)*
+- ☸️ Certified Kubernetes Administrator *(planned)*
+- 🏗️ HashiCorp Terraform Associate *(planned)*
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![Streak](https://streak-stats.demolab.com?user=Srijapotha&theme=tokyonight&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijapotha&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Srijapotha/Srijapotha/output/github-snake-dark.svg)
 
 </div>
 
@@ -103,10 +158,10 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-sreeja-31b557230)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pothasrija941@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srija941)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-srijapotha.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-srijapotha.vercel.app)
 
 *Automate everything, deploy with confidence, and keep learning.*
 
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5b2bff,50:0072ff,100:00c6ff&height=110&section=footer)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+</div>
