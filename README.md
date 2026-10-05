@@ -10,9 +10,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Open](https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=for-the-badge)
 
-![Views](https://komarev.com/ghpvc/?username=Srijapotha&label=Profile+Views&color=0072ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Srijapotha?style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/Srijapotha?style=flat-square&logo=github&label=Stars)
 
 </div>
 
