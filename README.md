@@ -10,7 +10,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Open](https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=for-the-badge)
 
-
 </div>
 
 ---
@@ -59,20 +58,27 @@ flowchart LR
 
 ---
 
-## 🗺️ Skills Roadmap
+## 🗺️ My DevOps Roadmap
 
-| Area | Tools | Status |
-|:--|:--|:--|
-| **Version Control** | Git, GitHub, branching workflows | 🟢 Working |
-| **Containers** | Docker, Docker Compose | 🟢 Working |
-| **Cloud** | AWS (EC2, S3, IAM) | 🟡 Building depth |
-| **CI/CD** | GitHub Actions | 🟡 Building depth |
-| **Linux & Scripting** | Ubuntu, Bash, Python | 🟡 Building depth |
-| **Orchestration** | Kubernetes, Helm | 🔵 Learning |
-| **Infrastructure as Code** | Terraform, Ansible | 🔵 Learning |
-| **Monitoring** | Prometheus, Grafana | 🔵 Learning |
+```mermaid
+flowchart LR
+    A[Git & GitHub]:::done --> B[Docker]:::done
+    B --> C[AWS]:::active
+    C --> D[GitHub Actions<br/>CI/CD]:::active
+    D --> E[Terraform]:::next
+    E --> F[Kubernetes]:::next
+    F --> G[Prometheus<br/>& Grafana]:::next
 
-<sub>🟢 Working &nbsp;·&nbsp; 🟡 Building depth &nbsp;·&nbsp; 🔵 Learning</sub>
+    classDef done fill:#2ea44f,stroke:#2ea44f,color:#ffffff
+    classDef active fill:#0072ff,stroke:#0072ff,color:#ffffff
+    classDef next fill:#30363d,stroke:#8b949e,color:#ffffff
+```
+
+<div align="center">
+
+🟢 **Working** &nbsp;·&nbsp; 🔵 **In progress** &nbsp;·&nbsp; ⚫ **Up next**
+
+</div>
 
 ---
 
@@ -86,8 +92,6 @@ flowchart LR
 | 🏗️ **[Terraform IaC](https://github.com/Srijapotha)** | VPC, EC2 and S3 provisioned as reusable code | `Terraform` `AWS` |
 | ☸️ **[Kubernetes Deployment](https://github.com/Srijapotha)** | Deployments, services and rolling updates | `Kubernetes` |
 
-<sub>📌 Replace each link with the exact repo URL. Remove any project you haven't built yet.</sub>
-
 ---
 
 ## 🧭 How I Work
@@ -97,8 +101,6 @@ flowchart LR
 - 🔐 **Security by default**: least-privilege IAM, no secrets in code
 - 📝 **Document as I build**: every repo has a README and an architecture diagram
 - 📊 **Measure**: logs and metrics before opinions
-
----
 
 <details>
 <summary><b>🛠️ DevOps Practices (click to expand)</b></summary>
@@ -114,37 +116,49 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>🎓 Certifications and Goals (click to expand)</b></summary>
+<summary><b>🎓 Certification Goals (click to expand)</b></summary>
 <br>
 
-- ☁️ AWS Certified Cloud Practitioner *(in progress / add when earned)*
-- ☸️ Certified Kubernetes Administrator *(planned)*
-- 🏗️ HashiCorp Terraform Associate *(planned)*
+- ☁️ AWS Certified Cloud Practitioner
+- ☸️ Certified Kubernetes Administrator (CKA)
+- 🏗️ HashiCorp Terraform Associate
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Dashboard
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Srijapotha&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Srijapotha&theme=radical&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijapotha&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Followers](https://img.shields.io/github/followers/Srijapotha?style=for-the-badge&logo=github&color=0072ff&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/Srijapotha/Srijapotha?style=for-the-badge&logo=git&color=00c6ff&labelColor=1a1b27)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🛰️ System Status
 
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/Srijapotha/Srijapotha/output/github-snake-dark.svg)
-
-</div>
+```yaml
+engineer:
+  name: Srija Potha
+  role: DevOps Engineer
+  status: open_to_opportunities
+  building:
+    - CI/CD pipeline with GitHub Actions
+    - Dockerized multi-container app
+    - AWS deployment with Nginx
+  next_up:
+    - Terraform
+    - Kubernetes
+    - Prometheus + Grafana
+  location: India
+```
 
 ---
 
@@ -152,10 +166,14 @@ flowchart LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-sreeja-31b557230)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pothasrija941@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srija941)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-srijapotha.vercel.app)
+```bash
+$ ./contact.sh --open-to "DevOps roles, collaborations, mentoring"
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-sreeja-31b557230)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pothasrija941@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srija941)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0072FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-srijapotha.vercel.app)
 
 *Automate everything, deploy with confidence, and keep learning.*
 
