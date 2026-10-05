@@ -131,12 +131,13 @@ flowchart LR
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Srijapotha&theme=radical&hide_border=true)
+<img width="48%" src="https://streak-stats.demolab.com?user=Srijapotha&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<br>
 
-![Followers](https://img.shields.io/github/followers/Srijapotha?style=for-the-badge&logo=github&color=0072ff&labelColor=1a1b27)
-![Last Commit](https://img.shields.io/github/last-commit/Srijapotha/Srijapotha?style=for-the-badge&logo=git&color=00c6ff&labelColor=1a1b27)
+<img src="https://img.shields.io/github/followers/Srijapotha?style=flat-square&logo=github&color=0072ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/last-commit/Srijapotha/Srijapotha?style=flat-square&logo=git&color=00c6ff&labelColor=1a1b27" />
 
 </div>
 
