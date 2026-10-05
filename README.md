@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi, I'm Srija 👩‍💻</h1>
-<h3 align="center">Full-Stack Developer | MVP Specialist | Performance Optimizer</h3>
+<h3 align="center">DevOps Engineer | Cloud & CI/CD | Automation</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYyb3ZyYnl3YnNhOGU0emp1OHMyMmpkZ2Nza2k2aGw4cjRmeTd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Woman Gif">
@@ -8,37 +7,45 @@
 
 ---
 
-## 👩‍💻 About Me  
+## 🎯 About Me
 
-I am a **Full-Stack Developer** building **scalable MVPs, high-performance applications, and modern web solutions**.  
-I focus on creating **business-driven, fast, and user-centric products** that help startups and companies accelerate growth.  
+- ☁️ **DevOps Engineer** focused on cloud infrastructure, CI/CD and automation
+- 🚀 I build pipelines that **build, test, containerize and deploy** applications reliably
+- 💡 Passionate about **automation, scalability, and zero-downtime deployments**
+- 🌱 Hands-on learner: real-time projects, labs and industry scenarios
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🧰 Skills & Technologies
+
+| Category | Technologies / Tools |
+|---|---|
+| **Cloud** | AWS (EC2, S3, IAM, VPC) |
+| **CI/CD** | GitHub Actions, Jenkins |
+| **Containers** | Docker, Docker Compose, Kubernetes |
+| **Infra as Code** | Terraform |
+| **Automation** | Shell Scripting, Python, Ansible |
+| **Version Control** | Git, GitHub |
+| **OS & Monitoring** | Linux, Prometheus, Grafana |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,firebase,git,github,html,css,js,vscode" />
-</p>
-
-<p align="center">
-  <img alt="React GIF" height="55" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
-  <img alt="JS GIF" height="55" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-  <img alt="Node GIF" height="55" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,git,github,bash,python,prometheus,grafana" />
 </p>
 
 ---
 
-## 📈 Career Highlights  
+## 🏗️ Projects
 
-- 🏆 Delivered **10+ MVPs** for startups in fintech, healthcare & SaaS — reducing **time-to-market by 30%**  
-- ⚡ Optimized performance → **40% faster load times**, boosting **user retention by 25%**  
-- 💼 Supported startups in achieving **$50K+ revenue growth** through scalable, high-quality solutions  
-- 🤝 Experienced in **Agile environments**, contributing to frontend, backend, and UI/UX delivery  
+- 🔁 **CI/CD Pipeline**: automated build, test and deploy using GitHub Actions / Jenkins *(add repo link)*
+- 🐳 **Dockerized Application**: multi-container setup with Docker Compose *(add repo link)*
+- ☁️ **AWS Deployment**: EC2 + S3 hosting with IAM best practices *(add repo link)*
+- ☸️ **Kubernetes Deployment**: cluster setup and app rollout *(add repo link)*
+- 🏗️ **Terraform IaC**: provisioning AWS infrastructure as code *(add repo link)*
+- 📊 **Monitoring Stack**: Prometheus + Grafana dashboards *(add repo link)*
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srijapotha&show_icons=true&theme=tokyonight" />
@@ -47,7 +54,7 @@ I focus on creating **business-driven, fast, and user-centric products** that he
 
 ---
 
-🌐 Connect with Me  
+## 📬 Connect With Me
 
 🐦 **X (Twitter):** [x.com/srija941](https://x.com/srija941)  
 📧 **Email:** [pothasrija941@gmail.com](mailto:pothasrija941@gmail.com)  
@@ -56,4 +63,4 @@ I focus on creating **business-driven, fast, and user-centric products** that he
 
 ---
 
-✨ _“Code is not just about solving problems — it’s about creating impact.”_ ✨
+✨ _"Automate everything, deploy with confidence, and keep learning."_ ✨
